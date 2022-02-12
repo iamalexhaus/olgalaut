@@ -1,1 +1,2 @@
-# olgalaut
+# olgalaut.com 
+Olga Laut Joyellery
