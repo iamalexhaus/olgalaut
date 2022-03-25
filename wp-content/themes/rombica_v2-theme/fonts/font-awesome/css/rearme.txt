@@ -1,0 +1,1 @@
+<link rel='stylesheet' id='fontawesome-style-css'  href='https://rombica.ru/wp-content/themes/rombica_v2-theme/fonts/font-awesome/css/font-awesome.min.css?ver=1560426441' type='text/css' media='all' />

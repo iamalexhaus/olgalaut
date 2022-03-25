@@ -1,0 +1,2 @@
+<link rel="alternate" type="application/json+oembed" href="https://rombica.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frombica.ru%2Fproduct%2Fair-r8%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://rombica.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frombica.ru%2Fproduct%2Fair-r8%2F&amp;format=xml" />

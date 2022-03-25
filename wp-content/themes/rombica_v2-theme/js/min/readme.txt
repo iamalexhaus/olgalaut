@@ -1,0 +1,1 @@
+<script type='text/javascript' src='https://rombica.ru/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0'></script>

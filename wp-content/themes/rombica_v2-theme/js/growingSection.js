@@ -1,0 +1,1 @@
+function init_growing_section(r){$("#growing_section");var n=$("#growing_before"),o=$("#growing_after"),e=new ScrollMagic.Scene({triggerElement:"#growing_section",triggerHook:1,duration:$window.height(),reverse:!0}).addTo(r);e.on("progress",function(){var r=e.progress();n.css("transform","translateX(-"+100*r+"%)"),o.css("transform","translateX("+100*r+"%)")})}

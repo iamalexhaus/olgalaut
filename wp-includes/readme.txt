@@ -1,0 +1,1 @@
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rombica.ru/wp-includes/wlwmanifest.xml" /> 

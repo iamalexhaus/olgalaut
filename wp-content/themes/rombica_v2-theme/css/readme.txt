@@ -1,0 +1,2 @@
+<link rel='stylesheet' id='nouislider-style-css'  href='https://rombica.ru/wp-content/themes/rombica_v2-theme/css/nouislider.css?ver=1560426311' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-style-css'  href='https://rombica.ru/wp-content/themes/rombica_v2-theme/css/animate.min.css?ver=1560426311' type='text/css' media='all' />
